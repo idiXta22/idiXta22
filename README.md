@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [highpvp](https://highpvp.pl/)
 
-- ⚡ Fun fact **Posługuję się płynnie 3 językami polski, hiszpański, włoski. Oraz interesuje się genezą papieską**
+- ⚡ Fun fact **Posługuję się płynnie 4 językami Polski, Hiszpański, Włoski oraz Angielski. Oraz interesuje się genezą papieską**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
