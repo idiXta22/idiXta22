@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Przmek</h1>
+<h1 align="center">Hi 👋, I'm Przemek</h1>
 <h3 align="center">Jestem profesjonalnym certyfikowanym PHP programerem!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idixta22&label=Profile%20views&color=0e75b6&style=flat" alt="idixta22" /> </p>
