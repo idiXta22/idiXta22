@@ -19,6 +19,6 @@
 
 
 <p float="left">
-  <img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="100" />
-  <img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="100" /> 
+  <img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="438" height="309" />
+  <img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="438" height="309" /> 
 </p>
