@@ -17,9 +17,9 @@
 
 <h3>Certyfikaty </h3>
 
-<p><img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="338" height="209"/> https://www.sololearn.com/Certificate/1059-26512557/pdf/</p>
 
-<p align="right">
-<p><img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="338" height="209"/> https://www.sololearn.com/Certificate/1059-26512557/pdf/</p> 
+<p float="left">
+  <img src="[/img1.png](https://www.sololearn.com/Certificate/1059-26512557/jpg/)" width="100" />
+  <img src="[/img2.png](https://www.sololearn.com/Certificate/1059-26512557/jpg/)" width="100" /> 
+  <img src="/img3.png" width="100" />
 </p>
-
