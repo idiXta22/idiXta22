@@ -23,4 +23,4 @@
   <img src="https://www.sololearn.com/certificates/course/en/26512557/1060/landscape/png" width="410" height="281" /> 
 </p>
 
-![papiez](https://www.highpvp.pl/rzulte_dane/api/api.php?nick=3)
+![papie3z](https://www.highpvp.pl/rzulte_dane/api/api.php?nick=3)
