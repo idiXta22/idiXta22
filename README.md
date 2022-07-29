@@ -23,4 +23,3 @@
   <img src="https://www.sololearn.com/certificates/course/en/26512557/1060/landscape/png" width="410" height="281" /> 
 </p>
 
-![papie3z](http://rzultedane.ct8.pl/api/janpawel_rozaniec.png)
