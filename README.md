@@ -22,3 +22,5 @@
   <img src="https://www.sololearn.com/Certificate/1059-26512557/jpg/" width="410" height="281" />
   <img src="https://www.sololearn.com/certificates/course/en/26512557/1060/landscape/png" width="410" height="281" /> 
 </p>
+
+![Anurag's GitHub stats](https://www.highpvp.pl/rzulte_dane/)
