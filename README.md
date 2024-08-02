@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idixta22&label=Profile%20views&color=0e75b6&style=flat" alt="idixta22" /> </p>
 
-- 🔭 I’m currently working on [pcode]([https://pcod3.pl/](https://pcod3.pl/))
+- 🔭 I’m currently working on [pcode](https://pcod3.pl/)
 
 - ⚡ Fun fact **Posługuję się płynnie 4 językami Polski, Hiszpański, Włoski oraz Angielski. Oraz interesuje się genezą papieską**
 
